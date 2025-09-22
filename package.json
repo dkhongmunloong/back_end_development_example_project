@@ -1,0 +1,28 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jest": "^29.5.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.4.0",
+    "nodemon": "^2.0.22",
+    "supertest": "^6.3.3",
+    "validator": "^13.15.15",
+    "winston": "^3.17.0"
+  },
+  "name": "ca2-daniel-khong",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "author": "Daniel Khong Mun Loong",
+  "license": "ISC",
+  "description": "web service backend showcase"
+}

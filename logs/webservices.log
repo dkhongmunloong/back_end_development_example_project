@@ -1,0 +1,190 @@
+2025-06-21T15:02:55.944Z [main modules and services] info: ----------- New execution instance -----------
+2025-06-21T15:02:55.945Z [main modules and services] info: App started
+2025-06-21T15:18:30.050Z [main modules and services] info: ----------- New execution instance -----------
+2025-06-21T15:18:30.051Z [main modules and services] info: App started
+2025-06-21T15:19:06.246Z [user controller] warn: Wrong email or password attempt
+2025-06-21T15:26:07.150Z [main modules and services] info: ----------- New execution instance -----------
+2025-06-21T15:26:07.151Z [main modules and services] info: App started
+2025-06-21T15:26:36.092Z [user controller] warn: Wrong email or password attempt
+2025-06-21T15:27:31.953Z [user controller] info: getUserById: user id 1 information was requested
+2025-06-21T15:27:36.211Z [user controller] info: getUserById: user id 2 information was requested
+2025-06-21T15:29:23.229Z [user controller] info: getUserByEmail: user email jonathan@ymail.com information was requested
+2025-06-21T15:48:27.912Z [main modules and services] info: ----------- New execution instance -----------
+2025-06-21T15:48:27.913Z [main modules and services] info: App started
+2025-06-21T15:49:25.230Z [category controller] info: readAllCategory: query attempt
+2025-06-21T15:54:33.216Z [product controller] info: addNewProduct: new product with name: floral short bedroom pants created successfully
+2025-06-21T15:56:17.736Z [main modules and services] info: ----------- New execution instance -----------
+2025-06-21T15:56:17.737Z [main modules and services] info: App started
+2025-06-21T15:56:34.382Z [main modules and services] info: ----------- New execution instance -----------
+2025-06-21T15:56:34.383Z [main modules and services] info: App started
+2025-06-21T15:56:44.393Z [category controller] info: readAllCategory: query attempt
+2025-06-21T15:56:50.344Z [category controller] info: readAllCategory: query attempt
+2025-06-21T15:57:04.337Z [main modules and services] info: ----------- New execution instance -----------
+2025-06-21T15:57:04.338Z [main modules and services] info: App started
+2025-06-23T12:52:46.317Z [main modules and services] info: ----------- New execution instance -----------
+2025-06-23T12:52:46.318Z [main modules and services] info: App started
+2025-06-23T13:00:57.131Z [user controller] info: register: user id 4 created successfully
+2025-06-23T13:03:29.765Z [user controller] warn: Wrong email or password attempt
+2025-06-23T13:05:27.454Z [category controller] info: readAllCategory: query attempt
+2025-06-23T13:09:42.165Z [category controller] info: addNewCategory: new category with name: sleepwear shirt created successfully
+2025-06-23T13:14:21.702Z [product controller] info: addNewProduct: new product with name: colorful long sleeve bedroom shirt created successfully
+2025-06-23T13:16:13.732Z [user controller] info: getUserByEmail: user email jacob@ymail.com information was requested
+2025-06-23T13:17:30.650Z [user controller] info: getUserById: user id 2 information was requested
+2025-06-23T13:22:13.239Z [main modules and services] info: ----------- New execution instance -----------
+2025-06-23T13:22:13.240Z [main modules and services] info: App started
+2025-06-23T16:20:34.999Z [main modules and services] info: ----------- New execution instance -----------
+2025-06-23T16:20:35.001Z [main modules and services] info: App started
+2025-06-24T16:38:34.526Z [main modules and services] info: ----------- New execution instance -----------
+2025-06-24T16:38:34.527Z [main modules and services] info: App started
+2025-06-24T16:50:20.735Z [user controller] info: getUserById: user id 2 information was requested
+2025-06-24T16:51:59.354Z [user controller] info: getUserByEmail: user email John@ymail.com information was requested
+2025-06-27T13:09:46.265Z [main modules and services] info: ----------- New execution instance -----------
+2025-06-27T13:09:46.266Z [main modules and services] info: App started
+2025-06-27T13:10:40.325Z [main modules and services] info: ----------- New execution instance -----------
+2025-06-27T13:10:40.327Z [main modules and services] info: App started
+2025-07-12T17:59:49.556Z [main modules and services] info: ----------- New execution instance -----------
+2025-07-12T17:59:49.557Z [main modules and services] info: App started
+2025-07-12T18:01:15.979Z [category controller] info: readAllCategory: query attempt
+2025-07-13T10:05:14.830Z [main modules and services] info: ----------- New execution instance -----------
+2025-07-13T10:05:14.832Z [main modules and services] info: App started
+2025-07-13T10:06:12.546Z [product controller] info: deleteProductByNameOrBrand: products with name: unique design bedroom shirt deleted successfully
+2025-07-13T10:17:59.978Z [main modules and services] info: ----------- New execution instance -----------
+2025-07-13T10:17:59.980Z [main modules and services] info: App started
+2025-07-13T10:18:36.421Z [product controller] info: deleteProductByNameOrBrand: products with brand: Best of Japan deleted successfully
+2025-07-13T10:20:56.406Z [product controller] info: deleteProductByNameOrBrand: products with name: unique design bedroom shirt deleted successfully
+2025-07-13T10:21:15.764Z [product controller] error: deleteProductByNameOrBrand: products with name: unique design bedroom shirt failed to delete, products not found.
+2025-07-13T10:21:37.925Z [product controller] info: deleteProductByNameOrBrand: products with name: Tokyo places souvenir bedroom shirt deleted successfully
+2025-07-13T10:21:50.133Z [product controller] error: deleteProductByNameOrBrand: products with name: Tokyo places souvenir bedroom shirt failed to delete, products not found.
+2025-07-13T10:22:02.652Z [product controller] error: deleteProductByNameOrBrand: products with brand: Best of Japan failed to delete, products not found.
+2025-07-13T13:24:04.112Z [main modules and services] info: ----------- New execution instance -----------
+2025-07-13T13:24:04.113Z [main modules and services] info: App started
+2025-07-13T13:39:09.230Z [main modules and services] info: ----------- New execution instance -----------
+2025-07-13T13:39:09.231Z [main modules and services] info: App started
+2025-07-13T13:40:08.978Z [product controller] info: deleteProductById: product with id: 20 deleted successfully
+2025-07-13T13:42:28.847Z [product controller] error: deleteProductById: product with id: 20 failed to delete, id not found.
+2025-07-13T13:43:34.369Z [product controller] error: deleteProductById: product with id: 20 failed to delete, id not found.
+2025-07-13T13:43:41.210Z [product controller] info: deleteProductById: product with id: 21 deleted successfully
+2025-07-13T13:45:06.136Z [product controller] error: deleteProductById: product with id: 21 failed to delete, id not found.
+2025-07-13T13:45:29.398Z [product controller] error: deleteProductById: product with id: 21 failed to delete, id not found.
+2025-07-13T13:45:35.802Z [product controller] info: deleteProductById: product with id: 22 deleted successfully
+2025-07-13T13:46:09.544Z [product controller] error: deleteProductById: product with id: 22 failed to delete, id not found.
+2025-07-14T12:47:48.288Z [main modules and services] info: ----------- New execution instance -----------
+2025-07-14T12:47:48.289Z [main modules and services] info: App started
+2025-07-14T12:48:36.688Z [product controller] info: updateProductById: product with id: 23 updated successfully
+2025-07-14T12:49:01.787Z [product controller] error: updateProductById: product with id: 22 failed to update, product id not found.
+2025-07-14T12:49:21.368Z [product controller] info: updateProductById: product with id: 23 updated successfully
+2025-07-14T12:51:20.469Z [product controller] info: updateProductById: product with id: 23 updated successfully
+2025-07-14T12:52:00.599Z [product controller] error: updateProductById: product with id: 24 failed to update, product id not found.
+2025-07-14T12:52:34.738Z [category controller] info: readAllCategory: query attempt
+2025-07-14T12:56:45.464Z [main modules and services] info: ----------- New execution instance -----------
+2025-07-14T12:56:45.465Z [main modules and services] info: App started
+2025-07-14T12:57:17.498Z [category controller] info: readAllCategory: query attempt
+2025-07-15T12:16:17.308Z [main modules and services] info: ----------- New execution instance -----------
+2025-07-15T12:16:17.309Z [main modules and services] info: App started
+2025-07-15T12:17:23.687Z [category controller] info: readAllCategory: query attempt
+2025-07-15T12:18:01.972Z [category controller] info: readAllCategory: query attempt
+2025-07-15T12:18:09.180Z [category controller] error: updateCategoryById: category with id: 8 failed to update, sql query error.
+2025-07-15T12:22:34.731Z [main modules and services] info: ----------- New execution instance -----------
+2025-07-15T12:22:34.732Z [main modules and services] info: App started
+2025-07-15T12:23:03.820Z [category controller] info: readAllCategory: query attempt
+2025-07-15T12:23:43.078Z [category controller] error: updateCategoryById: category with id: 8 failed to update, sql query error.
+2025-07-15T12:26:21.746Z [main modules and services] info: ----------- New execution instance -----------
+2025-07-15T12:26:21.747Z [main modules and services] info: App started
+2025-07-15T12:26:46.270Z [category controller] info: readAllCategory: query attempt
+2025-07-15T12:26:58.644Z [category controller] info: updateCategoryById: category with id: 8 updated successfully
+2025-07-15T12:27:18.799Z [category controller] info: readAllCategory: query attempt
+2025-07-15T12:27:22.835Z [category controller] info: readAllCategory: query attempt
+2025-07-15T12:27:57.003Z [category controller] info: updateCategoryById: category with id: 8 updated successfully
+2025-07-15T12:28:01.920Z [category controller] info: readAllCategory: query attempt
+2025-07-15T12:28:23.957Z [category controller] info: updateCategoryById: category with id: 8 updated successfully
+2025-07-15T12:28:27.851Z [category controller] info: readAllCategory: query attempt
+2025-07-15T12:28:54.714Z [category controller] info: updateCategoryById: category with id: 8 updated successfully
+2025-07-15T12:28:59.783Z [category controller] info: readAllCategory: query attempt
+2025-07-15T13:37:31.453Z [main modules and services] info: ----------- New execution instance -----------
+2025-07-15T13:37:31.455Z [main modules and services] info: App started
+2025-07-15T13:40:27.592Z [main modules and services] info: ----------- New execution instance -----------
+2025-07-15T13:40:27.593Z [main modules and services] info: App started
+2025-07-16T12:44:03.245Z [main modules and services] info: ----------- New execution instance -----------
+2025-07-16T12:44:03.247Z [main modules and services] info: App started
+2025-07-16T12:46:55.179Z [user controller] info: register: user id 6 created successfully
+2025-07-16T13:08:04.032Z [main modules and services] info: ----------- New execution instance -----------
+2025-07-16T13:08:04.033Z [main modules and services] info: App started
+2025-07-16T13:08:51.812Z [category controller] info: readAllCategory: query attempt
+2025-07-16T13:09:27.499Z [user controller] info: getUserByEmail: user email robin@ymail.com information was requested
+2025-07-16T13:09:53.100Z [user controller] info: getUserById: user id 3 information was requested
+2025-07-16T13:09:57.748Z [user controller] info: getUserById: user id 1 information was requested
+2025-07-16T13:11:33.225Z [category controller] info: readAllCategory: query attempt
+2025-07-16T13:11:53.883Z [user controller] info: getUserByEmail: user email robin@ymail.com information was requested
+2025-07-18T13:58:00.332Z [main modules and services] info: ----------- New execution instance -----------
+2025-07-18T13:58:00.333Z [main modules and services] info: App started
+2025-07-18T14:05:43.060Z [main modules and services] info: ----------- New execution instance -----------
+2025-07-18T14:05:43.061Z [main modules and services] info: App started
+2025-07-18T14:06:12.861Z [user controller] info: register: user id 7 created successfully
+2025-07-18T14:09:46.462Z [user controller] info: loginUser: user id 7 with email angelina@ymail.com logged in successfully
+2025-07-18T14:10:31.511Z [category controller] info: readAllCategory: query attempt
+2025-07-18T14:12:01.429Z [user controller] info: getUserByEmail: user email robin@ymail.com information was requested
+2025-07-18T14:12:22.441Z [user controller] info: getUserByEmail: user email angelina@ymail.com information was requested
+2025-07-18T14:12:46.486Z [user controller] info: getUserById: user id 1 information was requested
+2025-07-18T14:12:52.659Z [user controller] info: getUserById: user id 5 information was requested
+2025-07-18T14:14:53.351Z [category controller] info: addNewCategory: new category with name: tennis pants created successfully
+2025-07-18T14:16:05.542Z [category controller] info: updateCategoryById: category with id: 8 updated successfully
+2025-07-18T14:16:36.247Z [category controller] info: updateCategoryById: category with id: 8 updated successfully
+2025-07-18T14:20:01.442Z [user controller] info: register: user id 8 created successfully
+2025-07-18T14:21:07.479Z [user controller] info: loginUser: user id 8 with email austin@ymail.com logged in successfully
+2025-07-18T14:22:11.767Z [category controller] info: readAllCategory: query attempt
+2025-07-18T14:22:45.623Z [user controller] info: getUserByEmail: user email angelina@ymail.com information was requested
+2025-07-18T14:22:56.336Z [user controller] info: getUserByEmail: user email austin@ymail.com information was requested
+2025-07-18T14:23:19.684Z [user controller] info: getUserById: user id 5 information was requested
+2025-07-18T14:23:25.642Z [user controller] info: getUserById: user id 8 information was requested
+2025-07-18T14:23:28.904Z [user controller] info: getUserById: user id 2 information was requested
+2025-07-18T14:26:17.276Z [product controller] info: updateProductById: product with id: 23 updated successfully
+2025-07-18T14:26:38.298Z [product controller] info: updateProductById: product with id: 23 updated successfully
+2025-07-18T14:27:02.844Z [user controller] info: loginUser: user id 8 with email austin@ymail.com logged in successfully
+2025-07-18T14:27:27.238Z [category controller] info: readAllCategory: query attempt
+2025-07-18T14:27:47.176Z [user controller] info: getUserById: user id 2 information was requested
+2025-07-18T14:27:50.620Z [user controller] info: getUserById: user id 1 information was requested
+2025-07-18T14:27:55.581Z [user controller] info: getUserById: user id 7 information was requested
+2025-07-18T14:31:56.662Z [main modules and services] info: ----------- New execution instance -----------
+2025-07-18T14:31:56.663Z [main modules and services] info: App started
+2025-07-18T14:32:31.271Z [user controller] info: register: user id 9 created successfully
+2025-07-18T14:35:45.915Z [user controller] info: getUserById: user id 7 information was requested
+2025-07-18T14:37:03.997Z [user controller] info: register: user id 10 created successfully
+2025-07-18T14:38:01.651Z [user controller] info: loginUser: user id 10 with email belinda@ymail.com logged in successfully
+2025-07-18T14:40:22.118Z [user controller] info: loginUser: user id 7 with email angelina@ymail.com logged in successfully
+2025-07-18T14:40:41.003Z [category controller] info: readAllCategory: query attempt
+2025-07-18T14:41:00.221Z [user controller] info: getUserById: user id 7 information was requested
+2025-07-18T14:41:06.695Z [user controller] info: getUserById: user id 3 information was requested
+2025-07-18T14:41:23.227Z [user controller] info: getUserByEmail: user email austin@ymail.com information was requested
+2025-07-18T14:41:30.289Z [user controller] info: getUserByEmail: user email belinda@ymail.com information was requested
+2025-07-18T14:41:45.745Z [user controller] info: getUserByEmail: user email brandon@ymail.com information was requested
+2025-07-18T14:45:24.999Z [main modules and services] info: ----------- New execution instance -----------
+2025-07-18T14:45:25.000Z [main modules and services] info: App started
+2025-07-18T14:45:45.224Z [user controller] info: loginUser: user id 8 with email austin@ymail.com logged in successfully
+2025-07-18T14:46:21.189Z [category controller] info: readAllCategory: query attempt
+2025-07-18T14:46:51.367Z [user controller] info: getUserById: user id 7 information was requested
+2025-07-18T14:46:59.069Z [user controller] info: getUserById: user id 8 information was requested
+2025-07-18T14:47:04.463Z [user controller] info: getUserById: user id 9 information was requested
+2025-07-18T14:47:10.674Z [user controller] info: getUserById: user id 10 information was requested
+2025-07-18T14:47:15.801Z [user controller] info: getUserById: user id 7 information was requested
+2025-07-18T14:47:40.544Z [user controller] info: getUserByEmail: user email brandon@ymail.com information was requested
+2025-07-18T14:47:46.890Z [user controller] info: getUserByEmail: user email belinda@ymail.com information was requested
+2025-07-18T14:47:54.806Z [user controller] info: getUserByEmail: user email austin@ymail.com information was requested
+2025-07-18T14:48:01.741Z [user controller] info: getUserByEmail: user email angelina@ymail.com information was requested
+2025-07-18T14:48:09.428Z [user controller] info: getUserByEmail: user email austin@ymail.com information was requested
+2025-07-18T14:48:16.380Z [user controller] info: getUserByEmail: user email brandon@ymail.com information was requested
+2025-07-18T14:48:22.305Z [user controller] info: getUserByEmail: user email belinda@ymail.com information was requested
+2025-07-18T14:49:33.152Z [product controller] info: updateProductById: product with id: 23 updated successfully
+2025-07-18T14:50:47.256Z [product controller] info: updateProductById: product with id: 23 updated successfully
+2025-07-31T08:25:35.718Z [main modules and services] info: ----------- New execution instance -----------
+2025-07-31T08:25:35.719Z [main modules and services] info: App started
+2025-07-31T08:26:45.707Z [user controller] info: loginUser: user id 8 with email austin@ymail.com logged in successfully
+2025-07-31T08:28:50.413Z [category controller] info: readAllCategory: query attempt
+2025-07-31T08:35:48.589Z [main modules and services] info: ----------- New execution instance -----------
+2025-07-31T08:35:48.590Z [main modules and services] info: App started
+2025-08-09T14:00:55.197Z [main modules and services] info: ----------- New execution instance -----------
+2025-08-09T14:00:55.198Z [main modules and services] info: App started
+2025-08-09T14:01:46.852Z [user controller] info: loginUser: user id 8 with email austin@ymail.com logged in successfully
+2025-08-09T14:02:44.354Z [product controller] info: updateProductById: product with id: 26 updated successfully
+2025-08-09T14:03:34.588Z [category controller] info: updateCategoryById: category with id: 10 updated successfully
+2025-08-09T14:03:49.768Z [category controller] info: updateCategoryById: category with id: 10 updated successfully
+2025-08-09T14:04:04.674Z [category controller] info: updateCategoryById: category with id: 10 updated successfully
